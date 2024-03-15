@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d902c0e-dc0c-4532-9349-334790d78c75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/StartGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.8/Runtime/RenderPipeline/HDRenderPipelineGlobalSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../LifeOfDead/Assets/FifeOfDead/Prefabs/Characters/Units/Scripts/UnitBehaviourPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/ElementType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/IUpdateble.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../LifeOfDead/Assets/FifeOfDead/Prefabs/Characters/Units/Scripts/Unit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/EffectsList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Enemy/Scripts/Skeletons/FireSkeleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/ServiceLocator/ServiceLocator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../LifeOfDead/Assets/FifeOfDead/Prefabs/Characters/Units/Scripts/UnitBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/Behaviour/Unit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/GlobalUpdater.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/UnitBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/PlayerUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Resources/Player/Scripts/InputSystem/PlayerActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/Behaviour/PlayerUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/ISkill.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/SkillsList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/ServiceLocator/IService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/ServiceLocator/ServiceLocator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Effects/Scripts/VFXCollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/IUpdatble.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/IUpdateble.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/GlobalUpdater.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/Behaviour/Stats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/Behaviour/Unit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Effects/Scripts/CollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Enemy/Scripts/AbstractFactory/AbstractFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Enemy/Scripts/EnemyUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Enemy/Scripts/EnemyUnitSkeleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/SkillType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Enemy/Scripts/AbstractFactory/FireFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Enemy/Scripts/Skeletons/EnemyUnitSkeleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/DaamgeCalculator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/Behaviour/DamageCalculator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/DamageCalculator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/ElementType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/Fire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/EffectsList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/CollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/Skill.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/ServiceLocator/SERVICELOCAROR_GAMEPLAY.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Architecture/Scripts/StartGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/PlayerUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Scripts/Behaviour/UnitBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Effects/Scripts/WaterPush.cs" />
+        <option value="$PROJECT_DIR$/Assets/Roguelike/Prefabs/Resources/Units/Player/Scripts/Skills/Water.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2czELx6TKMLDME5IEjN2rdLCwLo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d902c0e-dc0c-4532-9349-334790d78c75" name="Default Changelist" comment="" />
+      <created>1709105960010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709105960010</updated>
+      <workItem from="1709105988543" duration="2489000" />
+      <workItem from="1709288897258" duration="1531000" />
+      <workItem from="1709304754959" duration="5063000" />
+      <workItem from="1709453849071" duration="8744000" />
+      <workItem from="1709532743925" duration="10340000" />
+      <workItem from="1709611900483" duration="789000" />
+      <workItem from="1709695413794" duration="11783000" />
+      <workItem from="1709815858151" duration="10338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="224" key="RiderGenerateDialog" timestamp="1709703963334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="224" key="RiderGenerateDialog/0.0.1920.1040/-1920.92.1920.1040@0.0.1920.1040" timestamp="1709703963334" />
+    <state x="491" y="165" key="SettingsEditor" timestamp="1709308411391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="165" key="SettingsEditor/0.0.1920.1040/-1920.92.1920.1040@0.0.1920.1040" timestamp="1709308411391" />
+  </component>
+</project>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\project\3DMagicRoguelike" t="IncludeRecursive">
+      <e p="3DMagicRoguelike.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="HDRPDefaultResources" t="Include" />
+        <e p="Roguelike" t="Include">
+          <e p="Architecture" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GlobalUpdater.cs" t="Include" />
+              <e p="IUpdateble.cs" t="Include" />
+              <e p="ServiceLocator" t="Include">
+                <e p="IService.cs" t="Include" />
+                <e p="SERVICELOCAROR_GAMEPLAY.cs" t="Include" />
+                <e p="ServiceLocator.cs" t="Include" />
+              </e>
+              <e p="StartGame.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Effects" t="Include">
+                <e p="Animations" t="Include" />
+                <e p="Models" t="Include">
+                  <e p="Water" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="WaterPush.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="Tex" t="Include" />
+                  <e p="Water" t="Include" />
+                </e>
+                <e p="VFX" t="Include" />
+              </e>
+              <e p="Locations" t="Include">
+                <e p="Models" t="Include">
+                  <e p="Gates" t="Include">
+                    <e p="FBX" t="Include" />
+                    <e p="TEXTURE" t="Include" />
+                  </e>
+                  <e p="Room" t="Include">
+                    <e p="FBX" t="Include" />
+                    <e p="Materials" t="Include" />
+                    <e p="obj" t="Include" />
+                  </e>
+                </e>
+                <e p="Resources" t="Include" />
+              </e>
+              <e p="Units" t="Include">
+                <e p="Animations" t="Include">
+                  <e p="Animators" t="Include" />
+                  <e p="Player" t="Include" />
+                </e>
+                <e p="Enemy" t="Include">
+                  <e p="Models" t="Include">
+                    <e p="Skeletons" t="Include">
+                      <e p="FBX" t="Include" />
+                      <e p="TEXTURE" t="Include">
+                        <e p="Materials" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="Resources" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="AbstractFactory" t="Include">
+                      <e p="AbstractFactory.cs" t="Include" />
+                      <e p="FireFactory.cs" t="Include" />
+                    </e>
+                    <e p="Skeletons" t="Include">
+                      <e p="FireSkeleton.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Player" t="Include">
+                  <e p="Model" t="Include">
+                    <e p="FBX" t="Include" />
+                    <e p="TEXTURE" t="Include">
+                      <e p="Materials" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Resources" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="InputSystem" t="Include">
+                      <e p="PlayerActions.cs" t="Include" />
+                    </e>
+                    <e p="PlayerUnit.cs" t="Include" />
+                    <e p="Skills" t="Include">
+                      <e p="EffectsList.cs" t="Include" />
+                      <e p="ElementType.cs" t="Include" />
+                      <e p="Fire.cs" t="Include" />
+                      <e p="Skill.cs" t="Include" />
+                      <e p="Water.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="Behaviour" t="Include">
+                    <e p="Stats.cs" t="Include" />
+                    <e p="Unit.cs" t="Include" />
+                    <e p="UnitBehaviour.cs" t="Include" />
+                  </e>
+                  <e p="CollisionHandler.cs" t="Include" />
+                  <e p="DamageCalculator.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Scenes" t="Include">
+            <e p="SampleScene" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Flieg\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Flieg\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_3DMagicRoguelike.-414305810.00" t="ExcludeRecursive" />
+  </component>
+</project>
